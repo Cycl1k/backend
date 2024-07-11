@@ -1,0 +1,6 @@
+/venv
+/app/equipment/migrations
+/app/equipment/__pycache__
+/app/backend/__pycache__
+/data
+.vscode
